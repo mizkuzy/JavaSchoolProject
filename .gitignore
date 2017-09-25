@@ -1,0 +1,13 @@
+#IDE files
+.project
+.classpath
+.settings
+.idea
+.class
+*.iml
+
+#MAC Files
+.DS_STORE
+
+#Build data
+target/

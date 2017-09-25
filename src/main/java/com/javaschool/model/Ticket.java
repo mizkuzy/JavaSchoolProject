@@ -4,7 +4,7 @@ package com.javaschool.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "ticket")
+@Table(name = "TICKETS")
 public class Ticket extends BaseEntity {
 
     @Column(name = "route_code")
